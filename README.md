@@ -3,7 +3,7 @@
 An app that generates prompts and optionally an image for artists to use as inspiration.  
 This app was created as a friend of mine was hoping to see something cool like this!
 
-![Android Example](https://raw.githubusercontent.com/fishydarwin/idea-computer/master/github_assets/android_example.png)
+![Android Example](https://raw.githubusercontent.com/fishydarwin/idea-computer/master/github/android_example.png)
 
 Currently only designed & tested on **Android**, but **iOS** version is coming soon.  
 This app was made using **Flutter**.
